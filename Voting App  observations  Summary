@@ -1,0 +1,316 @@
+ * Commands Used:
+ 
+ 201  cd /root/
+  202  ls
+  203  git clone https://github.com/omrKalyan/example-voting-app
+  204  ls
+  205  cd example-voting-app
+  206  ls
+  207  cd k8s-specifications/
+  208  kubectl apply -f .
+  209  cd /root/
+  210  cd example-voting-app/
+  211  cd k8s-specifications/
+  212  ll
+  213  kubectl delete all --all
+  214  kubectl apply -f .
+  215  kubectl get deploy
+  216  kubectl get svc
+  217  kubectl get po
+  218  kubectl logs result-5d57b59f4b-9kkxt
+  219  kubectl get po
+  220  kubectl logs db-57b8b86bcf-szzz7
+  221  kubectl get po
+  222  kubectl delete po db-57b8b86bcf-szzz7
+  223  kubectl get po
+  224  kubectl logs result-5d57b59f4b-9kkxt
+  225  kubectl logs result-5d57b59f4b-9kkxt
+  226  kubectl get po
+  227  kubectl logs db-57b8b86bcf-w5z6m
+  228  kubectl get po
+  229  kubectl logs worker-dd46d7584-nx8rk
+  230  kubectl logs worker-dd46d7584-nx8rk
+  231  kubectl get po
+  232  kubectl logs
+  233  kubectl logs
+  234  kubectl logs result-5d57b59f4b-9kkxt
+  235  kubectl get po
+  236  kubectl delete po result-5d57b59f4b-9kkxt
+  237  kubectl get po
+  238  kubectl get po
+  239  kubectl get po
+  240  ll
+  241  vi db-service.yaml
+  242  vi db-deployment.yaml
+  243  kubectl logs db-57b8b86bcf-w5z6m
+  244  vi db-deployment.yaml
+  245  vi db-deployment.yaml
+  246  vi db-deployment.yaml
+  247  vi db-deployment.yaml
+  248  ll
+  249   kubectl apply -f .
+  250  kubectl get po
+  251  kubectl delete po db-7dbfc6484c-69q4b
+  252  kubectl get po
+  253  kubectl get po
+  254  kubectl get po
+  255  kubectl get po
+  256  kubectl get po
+  257  kubectl delete po
+  258  kubectl delete po db-57b8b86bcf-w5z6m
+  259  kubectl get po
+  260  kubectl delete po db-7dbfc6484c-r79js
+  261  kubectl get po
+  262  kubectl get po
+  263  kubectl get po
+  264  kubectl get po
+  265  kubectl get po
+  266  kubectl get po
+  267  kubectl get po
+  268  kubectl get po
+  269  kubectl get po
+  270  kubectl get po
+  271  kubectl get po
+  272  kubectl get po
+  273  kubectl get po
+  274  kubectl get po
+  275  kubectl get po
+  276  kubectl logs db-57b8b86bcf-tdth9
+  277  kubectl get po
+  278  kubectl get po
+  279  kubectl delete po result-5d57b59f4b-ln6nt
+  280  kubectl get po
+  281  kubectl get po
+  282  kubectl get po
+  283  kubectl logs worker-dd46d7584-nx8rk
+  284  kubectl get po
+  285  kubectl delete all --all
+  286  kubectl get po
+  287  kubectl get po
+  288  kubectl get po
+  289  kubectl get po
+  290  kubectl get po
+  291  kubectl get po
+  292  kubectl get po
+  293  kubectl get po
+  294  kubectl get po
+  295  kubectl get po
+  296  kubectl get po
+  297  kubectl get po
+  298  kubectl get po
+  299  kubectl get po
+  300  kubectl get po
+  301  kubectl get po
+  302  kubectl get po
+  303   kubectl apply -f .
+  304  kubectl get po
+  305  kubectl get po
+  306  kubectl get po
+  307  kubectl get po
+  308  kubectl get po
+  309  kubectl get po
+  310  kubectl get po
+  311  kubectl get po
+  312  kubectl get po
+  313  kubectl get po
+  314  kubectl get po
+  315  kubectl get po
+  316  kubectl get po
+  317  kubectl get po
+  318  kubectl delete all --all
+  319  kubectl get po
+  320  kubectl get po
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd ..
+  325  ls
+  326  rm -rf
+  327  ./rm -rf example-voting-app
+  328  ls
+  329  rm -rf example-voting-app
+  330  ls
+  331  ls
+  332  ls
+  333  cd ..
+  334  cd
+  335  cd
+  336  cd
+  337  ls
+  338  exit
+  339  ls
+  340  rm -rf example-voting-app
+  341  ls
+  342  exit
+  343  cd /root/
+  344  ls
+  345  ls
+  346  git clone https://github.com/omrKalyan/example-voting-app
+  347  ls
+  348  cd example-voting-app/
+  349  ls
+  350  cd k8s-specifications/
+  351  ls
+  352  ll
+  353  vi db-deployment.yaml
+  354  vi db-deployment.yaml
+  355  ll
+  356  kubectl apply -f .
+  357  kubbectl get po
+  358  kubectl get po
+  359  :q
+  360  ls
+  361  cd ..
+  362  cd k8s-specifications/
+  363  ls
+  364  ll
+  365  kubbectl get po
+  366  kubectl get po
+  367  kubectl delete all --all
+  368  kubectl get po
+  369  kubectl get po
+  370  cd ..
+  371  cd ..
+  372  ls
+  373  rm -rf example-voting-app/
+  374  ls
+  375  git clone https://github.com/omrKalyan/example-voting-app
+  376  ls
+  377  cd example-voting-app/
+  378  cd k8s-specifications/
+  379  vi db-deployment.yaml
+  380  kubectl apply -f .
+  381  kubectl get po
+  382  kubectl get po
+  383  kubectl get po
+  384  kubectl get po
+  385  kubectl get po
+  386  kubectl get po
+  387  kubectl get po
+  388  kubectl get po
+  389  kubectl get po
+  390  kubectl get po
+  391  kubectl get po
+  392  kubectl get po
+  393  kubectl get po
+  394  kubectl get po
+  395  kubectl get po
+  396  kubectl get po
+  397  kubectl get po
+  398  kubectl get po
+  399  kubectl delete all --all
+  400  kubectl get po
+  401  cd ..
+  402  cd ..
+  403  ls
+  404  rm -rf example-voting-app/
+  405  ls
+  406  git clone https://github.com/omrKalyan/example-voting-app
+  407  cd
+  408  ls
+  409  ls
+  410  cd example-voting-app/
+  411  cd k8s-specifications/
+  412  ls
+  413  vi db-deployment.yaml
+  414  vi db-deployment.yaml
+  415  kubectl apply -f .
+  416  kubectl get po
+  417  kubectl get po
+  418  kubectl get po
+  419  kubectl get po
+  420  kubectl get po
+  421  kubectl get po
+  422  kubectl get po
+  423  kubectl get po
+  424  kubectl logs db-57b8b86bcf-wspvq
+  425  kubectl get po
+  426  kubectl get po
+
+
+Logs:
+*kubectl logs db-57b8b86bcf-w5z6m:-
+
+FATAL:  password authentication failed for user "postgres"
+DETAIL:  Connection matched pg_hba.conf line 95: "host all all all md5"
+
+Observation : 
+* results page is not updating.
+
+* [root@ip-172-31-25-254 k8s-specifications]# kubectl logs result-5d57b59f4b-htx47
+Sun, 29 May 2022 22:14:46 GMT body-parser deprecated bodyParser: use individual json/urlencoded middlewares at server.js:67:9
+Sun, 29 May 2022 22:14:46 GMT body-parser deprecated undefined extended: provide extended option at ../node_modules/body-parser/index.js:105:29
+App running on port 80
+Waiting for db
+Waiting for db
+
+* [root@ip-172-31-25-254 k8s-specifications]# kubectl logs db-57b8b86bcf-wspvq
+The files belonging to this database system will be owned by user "postgres".
+This user must also own the server process.
+
+The database cluster will be initialized with locale "en_US.utf8".
+The default database encoding has accordingly been set to "UTF8".
+The default text search configuration will be set to "english".
+
+Data page checksums are disabled.
+
+fixing permissions on existing directory /var/lib/postgresql/data ... ok
+creating subdirectories ... ok
+selecting default max_connections ... 100
+selecting default shared_buffers ... 128MB
+selecting default timezone ... Etc/UTC
+selecting dynamic shared memory implementation ... posix
+creating configuration files ... ok
+creating template1 database in /var/lib/postgresql/data/base/1 ... ok
+initializing pg_authid ... ok
+setting password ... ok
+initializing dependencies ... ok
+creating system views ... ok
+loading system objects' descriptions ... ok
+creating collations ... ok
+creating conversions ... ok
+creating dictionaries ... ok
+setting privileges on built-in objects ... ok
+creating information schema ... ok
+loading PL/pgSQL server-side language ... ok
+vacuuming database template1 ... ok
+copying template1 to template0 ... ok
+copying template1 to postgres ... ok
+syncing data to disk ... ok
+
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run initdb.
+
+Success. You can now start the database server using:
+
+    postgres -D /var/lib/postgresql/data
+or
+    pg_ctl -D /var/lib/postgresql/data -l logfile start
+
+waiting for server to start....LOG:  database system was shut down at 2022-05-29 22:14:47 UTC
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ done
+server started
+
+/usr/local/bin/docker-entrypoint.sh: ignoring /docker-entrypoint-initdb.d/*
+
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+waiting for server to shut down....LOG:  database system is shut down
+ done
+server stopped
+
+PostgreSQL init process complete; ready for start up.
+
+LOG:  database system was shut down at 2022-05-29 22:14:49 UTC
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+FATAL:  password authentication failed for user "postgres"
+DETAIL:  Connection matched pg_hba.conf line 95: "host all all all md5"
+
